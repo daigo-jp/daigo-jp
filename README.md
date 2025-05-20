@@ -1,16 +1,32 @@
-## Hi there 👋
+# こんにちは！
 
-<!--
-**daigo-jp/daigo-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+日本工学院専門学校所属の飯泉です。
 
-Here are some ideas to get you started:
+AIやAPIを活用したアプリケーション開発に強い関心を持つ学生デベロッパーです。
+学んだ知識を活かし、社会に貢献できるようなアプリケーション開発を目指しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 経験スキル
+
+* **OS:** Linux
+* **データベース:** MySQL
+* **プログラミング言語:** Python (得意), Java
+* **Webフレームワーク:** Django
+---
+
+## 学習中
+
+* **Webフレームワーク:** Flask
+* **プログラミング言語:**　Kotlin
+
+---
+
+## 今後の目標
+
+AIやAPIを取り入れた革新的なアプリケーションを開発してみる。
+
+
+---
+
+ご覧いただきありがとうございます！
