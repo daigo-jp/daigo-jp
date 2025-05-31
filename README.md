@@ -7,7 +7,7 @@
 ## 📊 GitHub統計情報
 
 [![飯泉さんのGitHub統計](https://github-readme-stats.vercel.app/api?username=daigo-jp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![最も使用した言語](https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![最も使用した言語](https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp&layout=compact&langs_count=8&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🛠️ 経験スキル
