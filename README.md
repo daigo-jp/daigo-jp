@@ -1,7 +1,5 @@
-[![Build Status](https://github.com/user/repo/actions/workflows/ci.yml/badge.svg)](https://github.com/user/repo/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/your-package)](https://www.npmjs.com/package/your-package)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🛠️ 経験スキル
