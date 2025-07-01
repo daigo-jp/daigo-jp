@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daigo-jpshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Daigo-JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=daigo-jp&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🛠️ 経験スキル
@@ -64,7 +64,7 @@
   </a>
 </p>
 
-* **Webフレームワーク:** Flask
+* **Webフレームワーク:** DRF
 * **プログラミング言語:** Kotlin, Javascript
 
 
