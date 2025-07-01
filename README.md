@@ -1,5 +1,6 @@
 [![Daigo-JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=daigo-jp&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🛠️ 経験スキル
