@@ -1,6 +1,6 @@
-# こんにちは！
-
-日本工学院専門学校所属の飯泉です。
+[![Build Status](https://github.com/user/repo/actions/workflows/ci.yml/badge.svg)](https://github.com/user/repo/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/your-package)](https://www.npmjs.com/package/your-package)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -54,8 +54,9 @@
 ## 🌱 学習中
 
 <p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="drf" width="40" height="40"/>
+  </a>
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
