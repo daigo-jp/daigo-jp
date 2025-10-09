@@ -25,7 +25,7 @@
 
 * **OS:** Linux
 * **データベース:** MySQL
-* **プログラミング言語:** Python, Java
+* **プログラミング言語:** Python, Java, Kotlin
 * **Webフレームワーク:** Django
 
 ---
@@ -50,20 +50,8 @@
 
 ---
 
-## 🌱 学習中
 
-<p align="left">
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="drf" width="40" height="40"/>
-  </a>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-</p>
 
-* **Webフレームワーク:** DRF
-* **プログラミング言語:** Kotlin
 
 
 
