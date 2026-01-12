@@ -1,6 +1,4 @@
-[![Stats](https://＜自分のvercel-url＞/api?username=daigo-jp)](https://github.com/daigo-jp)
 
----
 
 ## 🛠️ 経験スキル
 
