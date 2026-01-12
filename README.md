@@ -1,8 +1,8 @@
-[[[![Daigo-JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=daigo-jp&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp)](https://github.com/anuraghazra/github-readme-stats)
-](https://github-readme-stats.vercel.app/api?username=daigo-jp&show_icons=true&cache_seconds=86400
-)](https://github-readme-stats.vercel.app/api?username=daigo-jp&show_icons=true&theme=tokyonight
-)
+
+https://github-readme-stats.vercel.app/api?username=daigo-jp&show_icons=true&cache_seconds=86400
+https://github-readme-stats.vercel.app/api?username=daigo-jp&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=daigo-jp&layout=compact
+
 ---
 
 ## 🛠️ 経験スキル
