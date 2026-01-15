@@ -46,7 +46,7 @@
 
 <p align="left">
   <span style="display: inline-block; width: 40px; height: 40px; text-align: center; vertical-align: middle; margin-right: 10px; font-size: 24px;">🚗</span>
-  <strong>普通自動車第二種運転免許</strong>
+  <strong>普通自動車第一種運転免許</strong>
 </p>
 
 ---
