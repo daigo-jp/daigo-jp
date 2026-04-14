@@ -32,24 +32,6 @@
 ---
 
 
-## 📜 保有資格
-
-<p align="left">
-  <img src="https://www.ipa.go.jp/shiken/images/idx_logo_ip.gif" alt="ITパスポート試験 ロゴ" height="40" style="vertical-align: middle; margin-right: 10px;">
-  <strong>ITパスポート試験</strong> 
-</p>
-
-<p align="left">
-  <img src="https://www.ipa.go.jp/shiken/images/idx_logo_fe.gif" alt="基本情報技術者試験 ロゴ" height="40" style="vertical-align: middle; margin-right: 10px;">
-  <strong>基本情報技術者試験</strong> 
-</p>
-
-<p align="left">
-  <span style="display: inline-block; width: 40px; height: 40px; text-align: center; vertical-align: middle; margin-right: 10px; font-size: 24px;">🚗</span>
-  <strong>普通自動車第一種運転免許</strong>
-</p>
-
----
 
 
 
